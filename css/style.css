@@ -16447,7 +16447,7 @@ ul.twitter-feed a:hover {
   padding: 15px 20px;
   width: 100%;
   border-radius: 0.25rem;
-  border: 1px solid var(--bg-color);
+  border: 1px solid var(--bg-color3);
   outline: none;
   -webkit-appearance: none;
 }

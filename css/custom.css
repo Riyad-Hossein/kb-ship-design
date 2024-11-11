@@ -953,3 +953,13 @@ body{
         padding: 20px 5px;
     }
 }
+
+.footer-developer-by-text{
+    padding-left: 30px;
+    font-size: 13px;
+    color: #8b8686;
+}
+.hr-marinetec-copyright .copy-footer-29 a {
+    color: #557d2b;
+    font-weight: 600;
+}
